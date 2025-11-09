@@ -99,13 +99,10 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row gap-6 px-5 sm:px-10">
           {[
             {
-              title: "Eshop",
-              image: "/elect.png",
-              description:
-                "An e-commerce electronic website where you can purchase all the goods from headphones, pc, etc.",
-              liveUrl: "https://ecommerce-electronics-ndj3.vercel.app/",
-              githubUrl:
-                "https://github.com/Nitin01172005/Ecommerce-electronics",
+              title: "Workflow",
+              image: "/workflow.png",
+              description: "A project management web-app",
+              liveUrl: "https://workflow-flgc.vercel.app/",
             },
             {
               title: "Real Estate",

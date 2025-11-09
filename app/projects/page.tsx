@@ -32,11 +32,10 @@ const page = () => {
         >
           {/* Project Card 1 */}
           <ProjectCard
-            title="Eshop"
-            image="/elect.png"
-            liveLink="https://ecommerce-electronics-ndj3.vercel.app/"
-            codeLink="https://github.com/Nitin01172005/Ecommerce-electronics"
-            description="An e-commerce electronic website where you can purchase all the goods from headphones (wireless, wired), PCs, etc."
+            title="Workflow"
+            image="/workflow.png"
+            liveLink="https://workflow-flgc.vercel.app/"
+            description="A project management web-application"
           />
 
           {/* Project Card 2 */}
