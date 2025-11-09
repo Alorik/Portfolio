@@ -35,6 +35,7 @@ const page = () => {
             title="Workflow"
             image="/workflow.png"
             liveLink="https://workflow-flgc.vercel.app/"
+            codeLink="https://github.com/Nitin01172005/workflow"
             description="A project management web-application"
           />
 
