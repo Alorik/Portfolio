@@ -33,10 +33,10 @@ const Hero = () => {
             I am Software developer specialize in front-end more.
           </p>
           <p className="text-neutral-400 pt-2 text-sm">
-            Passionate about creating dynamic websites with blended designs. I
-            try give scalable and interesting web solutions. <br />
-            One who like challenges and create more beautiful websites with
-            amazing designs.
+            Passionate about creating dynamic, responsive websites with modern
+            designs. I strive to deliver scalable and innovative web solutions.
+            I thrive on challenges and excel at building beautiful interfaces
+            with exceptional user experiences.
           </p>
         </div>
 
